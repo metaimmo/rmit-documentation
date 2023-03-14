@@ -1,4 +1,4 @@
-# ScaLabs Documentation
+# Metaimmo Documentation
 
 This documentation contains a general guide of how we work at Scalabs. Is serves as process management & governance documentation, as a set of standards to work with other organizations, and onboarding material for new people.
 
@@ -29,14 +29,5 @@ This documentation contains a general guide of how we work at Scalabs. Is serves
 
 | Org. name                                                   | Description                                                                                        |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [scalabs](https://github.com/scalabs)                       | Our main organization                                                                              |
-| [scalabs-graveyard](https://github.com/scalabs-graveyard)   | Retired projects by ScaLabs                                                                        |
 | [dartclub](https://github.com/dartclub)                     | Our open source projects for Dart & Flutter :blue_heart:                                           |
-| [avmverlag](https://github.com/avmverlag)                   | Der a.v.&m.-Verlag ist ein anerkannter Herausgeber von Fachmedien in der Zweiradbranche            |
-| [lexlynk](https://github.com/lexlynk)                       | A SaaS startup that makes legal texts interactive utilizing AI                                     |
-| [metaimmo](https://github.com/metaimmo)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |
-| [BetterMeetHQ](https://github.com/BetterMeetHQ)             | Home of the BetterMeet project and everything else about the community building                    |
-| [gdgnuernberg](https://github.com/gdgnuernberg)             | Developer Group for Google-related technology based in Nuremberg                                   |
-| [tcfev](https://github.com/tcfev)                           | TCF e.V. is a non-profit civic lab                                                                 |
-| [minga-app](https://github.com/minga-app)                   | A participatory model to fight hunger, reduce food waste, lower climate footprint                  |
-| [opendata-nuernberg](https://github.com/opendata-nuernberg) | Code for Nürnberg civic tech initiative                                                            |
+| [metaimmo](https://github.com/metaimmo)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |                   
