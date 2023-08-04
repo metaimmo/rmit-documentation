@@ -1,4 +1,4 @@
-# Metaimmo Documentation
+# Earlybuild Documentation
 
 This documentation contains a general guide of how we work at Scalabs. Is serves as process management & governance documentation, as a set of standards to work with other organizations, and onboarding material for new people.
 
@@ -30,4 +30,4 @@ This documentation contains a general guide of how we work at Scalabs. Is serves
 | Org. name                                                   | Description                                                                                        |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [dartclub](https://github.com/dartclub)                     | Our open source projects for Dart & Flutter :blue_heart:                                           |
-| [metaimmo](https://github.com/metaimmo)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |                   
+| [earlybuild](https://github.com/earlybuild)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |                   
